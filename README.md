@@ -1,6 +1,7 @@
 # SPA application as recreuitment tasks for *CODIBLY*
 
-
+### Fast Contact: 
+[![gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:michalhaj.kontakt@gmail.com)
 
 ### Tasks
 - display the paginated list of products ( 5 items per page ) ( pagination should be in as query parameter in URL)
@@ -29,7 +30,7 @@ $ npm run dev
 - Axios,
 - Zustand,
 - react-hot-toast
-- 
+  
 <br />
 
 ## Schema
