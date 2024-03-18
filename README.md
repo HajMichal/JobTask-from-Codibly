@@ -7,20 +7,30 @@
 - after click on product, display modal which contains all items data
 - handle all 4XX and 5XX errors, inform user about it
 - use debounce hook
-- write unit tests
 
+<br />
 
+ ```
+$ git clone https://github.com/HajMichal/JobTask-from-Codibly.git
 
+$ cd JobTask-from-Codibly
 
+$ npm install
 
-
-## Stack: 
+$ npm run dev
+```
+<br />
+ 
+ 
+ ## Stack: 
 - React,
 - Typescirpt,
 - TailwindCSS,
 - Axios,
 - Zustand,
-- react-hot-toast,
+- react-hot-toast
+- 
+<br />
 
 ## Schema
 ![Alt text](image.png)
